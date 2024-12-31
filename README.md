@@ -5,5 +5,3 @@
 ## Testando mais uma vez
 
 ## Comando git push
-
-## Comando git pull
